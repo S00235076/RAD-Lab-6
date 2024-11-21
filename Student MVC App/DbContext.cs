@@ -1,4 +1,6 @@
-﻿using System.Collections.Generic;
+﻿using Microsoft.EntityFrameworkCore;
+using Student_Class_Library;
+using System.Collections.Generic;
 using System.Reflection.Emit;
 
 namespace Student_MVC_App

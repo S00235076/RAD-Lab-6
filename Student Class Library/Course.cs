@@ -13,5 +13,6 @@ namespace Student_Class_Library
         public string Department { get; set; }
         public string Lecturer { get; set; }
         public ICollection<Student> Students { get; set; }
+        
     }
 }
